@@ -1,4 +1,4 @@
-# 🚀 Task Manager - College Mini Project
+# 🚀 Task Manager - Mini Project
 
 A modern, responsive, and feature-rich **Task Management System** web application built for college students. 
 
